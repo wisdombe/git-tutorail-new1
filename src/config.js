@@ -1,4 +1,4 @@
-console.log('config.jsv1234')
+console.log('config.jsv12')
 console.log('index.jsv123')
 
 
